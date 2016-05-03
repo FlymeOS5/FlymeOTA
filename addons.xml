@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id> <!-- Use integers only, make them unique -->
+            <name>SuperSU</name> <!-- The name, simples -->
+            <description>Help You Root Your Devices</description> <!-- You can use markdown here if you want -->
+            <updated-at>2016-05-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>43000</size> <!-- filesize in bytes -->
+            <download-link>
+            http://flymeota.nianrom.cn/addons/BETA-SuperSU-v2.71-20160331103524.zip
+            </download-link>
+        </addon>
+        <addon>
+            <id>2</id> <!-- Use integers only, make them unique -->
+            <name>Gapps</name> <!-- The name, simples -->
+            <description>Use Google Apps</description> <!-- You can use markdown here if you want -->
+            <updated-at>2016-05-03</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>512000</size> <!-- filesize in bytes -->
+            <download-link>
+            https://github.com/opengapps/arm/releases/download/20160503/open_gapps-arm-5.1-pico-20160503.zip
+            </download-link>
+        </addon>
+    </addons>
+</hash>
