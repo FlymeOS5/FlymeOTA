@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8?
+<ROM>
+  <RomName>Flyme OS</RomName>
+  <VersionName>.5.6R beta</VersionName>
+  <VersionNumber type="integer">20160508</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/cancro_aosp/ota/6.5.8/ota.zip</DirectUrl>
+  <HttpUrl>http://pan.baidu.com/s/1bpkarIR</HttpUrl>
+  <Android>5.1.1</Android>
+  <CheckMD5>28ad9d765919dbb602b154a5be1aeee9</CheckMD5>
+  <FileSize type="integer">6791348</FileSize>
+  <Developer>nian0114</Developer>
+  <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
+  <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
+  <Changelog>### Changelog 20160508
+* 修复Flyme相机进入图库FC
+* 修复联系人搜索FC
+  </Changelog>
+  <AddonCount>2</AddonCount>
+  <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
+</ROM>
