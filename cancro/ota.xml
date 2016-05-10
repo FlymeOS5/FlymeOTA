@@ -5,14 +5,15 @@
   <VersionNumber type="integer">20160511</VersionNumber>
   <DirectUrl>http://flymeota.nianrom.cn/cancro/ota/6.5.11/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>868384e0200b44789cc007626a6eddce</CheckMD5>
-  <FileSize type="integer">11636703</FileSize>
+  <CheckMD5>9207af663db533f160d1d590cfc40de0</CheckMD5>
+  <FileSize type="integer">11632541</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
   <Changelog>### Changelog 20160511
-* 修复Flyme相机进入图库FC
-* 修复联系人搜索FC
+* 新增 高级设置
+* 优化 系统底层
+* 下个版本开始可能由Ray开始维护了，虽然仍然是第三方，可是也会很棒的
   </Changelog>
   <AddonCount>2</AddonCount>
   <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
