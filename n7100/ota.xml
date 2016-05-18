@@ -5,8 +5,8 @@
   <VersionNumber type="integer">20160518</VersionNumber>
   <DirectUrl>http://flymeota.nianrom.cn/n7100/ota/6.5.18/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>16a164668d1d56ad54595cd12f12a3de</CheckMD5>
-  <FileSize type="integer">22589552</FileSize>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
