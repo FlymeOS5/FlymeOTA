@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.5.6R beta</VersionName>
+  <VersionName> 5.1.5.13R beta</VersionName>
   <VersionNumber type="integer">20160518</VersionNumber>
   <DirectUrl>http://flymeota.nianrom.cn/i9500/ota/6.5.18/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5></CheckMD5>
-  <FileSize type="integer"></FileSize>
+  <CheckMD5>44ae2920f05f494ccb0800540d5de771</CheckMD5>
+  <FileSize type="integer">616907</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
   <Changelog>### Changelog 20160518
-* 新增 高级设置
-* 优化 系统底层
-* 下个版本开始可能由Ray开始维护了，虽然仍然是第三方，可是也会很棒的
   </Changelog>
   <AddonCount>2</AddonCount>
   <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
