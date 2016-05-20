@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.5.13R beta</VersionName>
-  <VersionNumber type="integer">20160516</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/virgo/ota/6.5.16/ota.zip</DirectUrl>
+  <VersionName> 5.1.5.20R beta</VersionName>
+  <VersionNumber type="integer">20160521</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/virgo/ota/6.5.21/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>4e7996367218faa34f694662d0546d12</CheckMD5>
-  <FileSize type="integer">16035864</FileSize>
+  <CheckMD5>253feb7a4fd94ff2e711f8f45f67fbcf</CheckMD5>
+  <FileSize type="integer">76068630</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160516
+  <Changelog>### Changelog 20160521
+* 新增 5.1.5.20R
   </Changelog>
   <AddonCount>2</AddonCount>
   <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
