@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.5.13R beta</VersionName>
-  <VersionNumber type="integer">20160518</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/cancro/ota/6.5.18/ota.zip</DirectUrl>
+  <VersionName> 5.1.5.20R beta</VersionName>
+  <VersionNumber type="integer">20160521</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/cancro/ota/6.5.21/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>270c9169109a52a700fb19d83515c614</CheckMD5>
-  <FileSize type="integer">611321</FileSize>
+  <CheckMD5>947ce6fdabddc4ef12f411f3b21efb09</CheckMD5>
+  <FileSize type="integer">73984702</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160518
+  <Changelog>### Changelog 20160521
   </Changelog>
   <AddonCount>2</AddonCount>
   <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
