@@ -2,15 +2,19 @@
 <ROM>
   <RomName>Flyme OS</RomName>
   <VersionName> 5.1.5.20R beta</VersionName>
-  <VersionNumber type="integer">20160521</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/leo/ota/6.5.21/ota.zip</DirectUrl>
+  <VersionNumber type="integer">20160523</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/leo/ota/6.5.23/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>e2504fd99b8cacf5a5c5e9656ce15953</CheckMD5>
-  <FileSize type="integer">94675018</FileSize>
+  <CheckMD5>25297fb696ec6962361250cc2adfe0fe</CheckMD5>
+  <FileSize type="integer">2344929</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160521
+  <Changelog>### Changelog 20160523
+* 修复 前置照相FC
+* 修复 在线更新
+* 新增 主题无敌试用大法
+* 优化 附加设置移动至辅助功能的附加设置
   </Changelog>
   <AddonCount>2</AddonCount>
   <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
