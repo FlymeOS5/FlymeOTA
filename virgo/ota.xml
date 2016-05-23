@@ -2,15 +2,15 @@
 <ROM>
   <RomName>Flyme OS</RomName>
   <VersionName> 5.1.5.20R beta</VersionName>
-  <VersionNumber type="integer">20160523</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/virgo/ota/6.5.23/ota.zip</DirectUrl>
+  <VersionNumber type="integer">20160524</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/virgo/ota/6.5.24/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>b8e8fffda51a6883e20b59bbe4cd53ba</CheckMD5>
-  <FileSize type="integer">4369289</FileSize>
+  <CheckMD5>ff7919a23b718348eb7331249943eb5c</CheckMD5>
+  <FileSize type="integer">886936</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160523
+  <Changelog>### Changelog 20160524
 * 修复 前置照相FC
 * 修复 在线更新
 * 新增 主题无敌试用大法
