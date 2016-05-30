@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.5.20R beta</VersionName>
-  <VersionNumber type="integer">20160524</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/cancro_aosp/ota/6.5.24/ota.zip</DirectUrl>
+  <VersionName> 5.1.5.27R beta</VersionName>
+  <VersionNumber type="integer">20160530</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/cancro_aosp/ota/6.5.30/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>3edd6de60a61536c1bd18e473710fd4b</CheckMD5>
-  <FileSize type="integer">886961</FileSize>
+  <CheckMD5>76a0cbbb197921a562b793a4eaa8379c</CheckMD5>
+  <FileSize type="integer">11485317</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160524
+  <Changelog>### Changelog 20160530
 * 修复 前置照相FC
 * 修复 在线更新
 * 新增 主题无敌试用大法
