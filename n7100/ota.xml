@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.5.20R beta</VersionName>
-  <VersionNumber type="integer">20160523</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/n7100/ota/6.5.23/ota.zip</DirectUrl>
+  <VersionName> 5.1.5.27R beta</VersionName>
+  <VersionNumber type="integer">20160530</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/n7100/ota/6.5.30/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>ced28239e8a2ff93d34046081aeccdcb</CheckMD5>
-  <FileSize type="integer">75742967</FileSize>
+  <CheckMD5>efdfc2a3bfbc2985deb9f373c10d8cb4</CheckMD5>
+  <FileSize type="integer">10971641</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160523
+  <Changelog>### Changelog 20160530
 * 修复 前置照相FC
 * 修复 在线更新
 * 新增 主题无敌试用大法
