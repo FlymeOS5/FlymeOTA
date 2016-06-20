@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.6.13R beta</VersionName>
-  <VersionNumber type="integer">20160615</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/m7/ota/6.6.15/ota.zip</DirectUrl>
+  <VersionName> 5.1.6.20R beta</VersionName>
+  <VersionNumber type="integer">20160621</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/m7/ota/6.6.21/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>9ed9e8be98d58842dec6405f77a547c4</CheckMD5>
-  <FileSize type="integer">58976405</FileSize>
+  <CheckMD5>3ac05ff13a6707625c9185e823c0e3f3</CheckMD5>
+  <FileSize type="integer">15466748</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160615
-* Update 5.1.6.13R
-* 修复 近期任务白带
+  <Changelog>### Changelog 20160621
+* Update 5.1.6.20R
+* 修复 概率性自动重启问题
   </Changelog>
   <AddonCount>2</AddonCount>
   <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
