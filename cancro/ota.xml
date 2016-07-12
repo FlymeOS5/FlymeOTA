@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.7.4R beta</VersionName>
-  <VersionNumber type="integer">20160704</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/cancro/ota/6.7.4/ota.zip</DirectUrl>
+  <VersionName> 5.1.7.8R beta</VersionName>
+  <VersionNumber type="integer">20160713</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/cancro/ota/6.7.13/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>72ad603b9e90ba087a4edb3822bb3ff0</CheckMD5>
-  <FileSize type="integer">32624566</FileSize>
+  <CheckMD5>18ea3e2013f6485ea8dafbc1781ea007</CheckMD5>
+  <FileSize type="integer">29217095</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160704
+  <Changelog>### Changelog 20160713
 * Update 5.1.7.4R
 * 修复 概率性自动重启问题
   </Changelog>
