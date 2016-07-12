@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.7.4R beta</VersionName>
-  <VersionNumber type="integer">20160704</VersionNumber>
-  <DirectUrl>http://flymeota.nianrom.cn/virgo/ota/6.7.4/ota.zip</DirectUrl>
+  <VersionName> 5.1.7.8R beta</VersionName>
+  <VersionNumber type="integer">20160713</VersionNumber>
+  <DirectUrl>http://flymeota.nianrom.cn/virgo/ota/6.7.13/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>6f6c99de0f296c9fdfb35ee24f2bd012</CheckMD5>
-  <FileSize type="integer">32400949</FileSize>
+  <CheckMD5>bf4b89d6d5767132ccf48cb9e9c759df</CheckMD5>
+  <FileSize type="integer">30336999</FileSize>
   <Developer>nian0114</Developer>
   <WebsiteURL>http://www.nianrom.cn</WebsiteURL>
   <DonateURL>https://qr.alipay.com/0664132219511500</DonateURL>
-  <Changelog>### Changelog 20160704
+  <Changelog>### Changelog 20160713
 * Update 5.1.7.4R
 * 修复 概率性自动重启问题
   </Changelog>
